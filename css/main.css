@@ -143,7 +143,7 @@ background: linear-gradient(to bottom, #ed3433 0%, #e01a19 100%);
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ed3433', endColorstr='#e01a19', GradientType=0 );
 }
 
-.info_wrap h3{line-height:0.533333rem;text-align: justify}
+.info_wrap h3{line-height:0.613333rem;text-align: justify}
 
 .news_head{padding:0.586667rem .266667rem 0.453333rem}
 .news_body{padding-bottom:1.066667rem;line-height:0.613333rem;text-align:justify}
